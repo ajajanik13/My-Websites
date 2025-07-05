@@ -4,7 +4,19 @@ div{
     margin: 20px;
     color: chocolate;
     font-family: 'Times New Roman', Times, serif;
-    border: 20pxx;
+    border: 20px;
     border-radius: 20px;
     
+}
+h1{
+    text-align: center;
+    color: brown;
+    background-color: blanchedalmond;
+    margin: 20px;
+    border: 20px;
+    border-radius:20px;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    padding: 30px;
 }
