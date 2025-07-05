@@ -6,17 +6,22 @@ div{
     font-family: 'Times New Roman', Times, serif;
     border: 20px;
     border-radius: 20px;
-    
+    align-items: center;
+    text-align: center;
+    color: blue;
+    text-align: justify;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 h1{
     text-align: center;
     color: brown;
-    background-color: blanchedalmond;
-    margin: 20px;
-    border: 20px;
+    background-color: rgb(243, 239, 233);
+    margin: 50px;
+    border: 40px;
     border-radius:20px;
     font-weight: 900;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bolder;
-    padding: 30px;
+    padding: 50px;
 }
